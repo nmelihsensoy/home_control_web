@@ -1,0 +1,132 @@
+body{
+	background-color: #252830 !important;
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.logo{
+	color: #FFF;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.sidebar{
+	padding-right: 30px !important;
+}
+
+.main{
+	width: 100%;
+}
+
+.card-side{
+	border-right: 1px solid #666;
+	padding: 10px;
+	display:flex;
+  	align-items:center;
+  	background-color: #FFF;
+}
+
+.card-main{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.card-side h6{
+	
+}
+
+.icon{
+	font-size: 120px !important;
+	width: 100%;
+	text-align: center;
+}
+
+.cardC{
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+	margin-bottom: 20px;
+}
+
+.card-main{
+	background-color: #E0E0E0;
+}	
+
+.vAlign{
+	width: 100%;	
+}
+
+.side-nav a{
+	color: #cfd2da;
+	font-weight: 300;
+}
+
+.side-nav a:hover{
+	color: #FFF;
+}
+
+.nav-pills .nav-link.active, .show>.nav-pills .nav-link{
+	background-color: #03A9F4 !important; 
+}
+
+.customButton:first-child{
+	
+}
+
+.button-group{
+	padding-bottom: 15px;
+}
+
+.customButton{
+	width: 100%;
+	font-weight: bold !important;
+}
+
+.customButton i{
+	font-size: 60px !important;
+}
+
+.weather{
+	border-right: 1px solid #666;
+	text-align: center;
+}
+
+.humidity{
+	text-align: center;
+}
+
+.weather-main{
+	height: 100%;
+}
+
+.iconW{
+	font-size: 60px !important;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.rfid-timestamp{
+	display: inline-block !important;
+	float: right;
+}
+
+.weather_color{
+	color: #FF9800 !important;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #454A58;
+}
+
+#doorOpen{
+	display: none;
+}
+
+#doorClosed{
+	display: none;
+}
